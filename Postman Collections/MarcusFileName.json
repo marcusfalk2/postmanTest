@@ -13,7 +13,8 @@
 			},
 			"request": {
 				"method": "GET",
-				"header": []
+				"header": [],
+				"url": "https://www.google.com"
 			},
 			"response": []
 		}
